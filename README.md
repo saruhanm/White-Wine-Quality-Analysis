@@ -7,7 +7,7 @@
 ## Project Workspace
 **WhiteWines.rmd:** The RMD file containing the analysis (final plots and summary, and reflection)    
 **WhiteWines.html:** the HTML file knitted from the RMD file using the knitr package    
-**Data\wineQualityWhites.csv:** the original data set and source     
+**wineQualityWhites.csv:** the original data set and source     
 **Sources.txt:** A list of Web sites used in creating the submission   
 
 ## Author
